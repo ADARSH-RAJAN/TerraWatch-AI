@@ -9,7 +9,7 @@ function MissionMap() {
         name: "Apollo 11",
         location: "Tranquility Base",
         year: "1969",
-        coordinates: "0.674° N, 23.473° E",
+        coordinates: "0.71° N, 23.63° E",
         equipment: "Apollo Lunar Module descent stage",
         category: "Lunar landing hardware",
         legacy: "The descent stage remains at the historic site of humanity's first crewed Moon landing.",
