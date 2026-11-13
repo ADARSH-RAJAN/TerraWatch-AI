@@ -1,0 +1,32 @@
+/* GLOBAL STYLES */
+
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background: #070b18;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+a {
+  font-family: inherit;
+}
+
+button {
+  cursor: pointer;
+}
